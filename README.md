@@ -68,8 +68,17 @@ The goal of each level is to collect all apples and reach the goal house. You mu
 
 ## 🚀 Running the Project Locally
 
-Since the project uses Vanilla HTML/CSS/JS, running it is incredibly simple. No build steps (like `npm install` or `webpack`) are required.
+Although this project is built with Vanilla HTML/JS, modern web browsers restrict certain script executions when opening files directly from the hard drive (`file:///` protocol) due to CORS security policies. 
+
+To run the game properly, you need to serve it through a local web server:
 
 1. Clone this repository:
    ```bash
    git clone [https://github.com/your-username/capy-code-quest.git](https://github.com/your-username/capy-code-quest.git)
+   ```
+2. Open the project folder in your code editor.
+3. **Start a Local Server:**
+   * **VS Code:** Install the **Live Server** extension and click "Go Live" at the bottom right.
+   * **XAMPP/WAMP:** Place the folder inside your `htdocs` or `www` directory and access via `http://localhost/capy-code-quest`.
+
+The game will open in your browser, and the capybara will be ready for your commands!
