@@ -19,7 +19,7 @@
 This project was developed as a Final Project for the **Technical English** course in the **TADS** (Tecnologia em Análise e Desenvolvimento de Sistemas) undergraduate program.
 
 <div align="center">
-  <i><img src="assets/capy-code.gif"></i>
+  <i><img src="assets/capy-code.gif" width="600"></i>
 </div>
 
 ---
