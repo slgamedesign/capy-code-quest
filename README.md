@@ -82,3 +82,8 @@ To run the game properly, you need to serve it through a local web server:
    * **XAMPP/WAMP:** Place the folder inside your `htdocs` or `www` directory and access via `http://localhost/capy-code-quest`.
 
 The game will open in your browser, and the capybara will be ready for your commands!
+
+## 👩‍💻 Credits & Authorship
+
+Original concept and core development by **[Rocío Gomez](https://github.com/RocioGomez06)**. 
+Curated and maintained as part of the educational portfolio.
